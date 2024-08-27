@@ -1,7 +1,7 @@
 
 # 🕴🏻 # Project_mib_shoppingMall 🕴🏻
 
-> 세미 프로젝트 > 검정색 옷만 파는 남성 의류 쇼핑몰
+> 세미 프로젝트 > 심플하고 직관적인 레이아웃과 깔끔한 UI로, 검정색 남성 의류만을 전문으로 판매하는 쇼핑몰
 <img src="https://github.com/user-attachments/assets/2d5a1b17-0737-4a01-977f-b06cbfa4fc5e" width="300" />
 
 ## 👥 팀 소개
